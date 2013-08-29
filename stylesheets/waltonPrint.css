@@ -1,0 +1,27 @@
+body {
+	background-color: white;
+	}
+
+
+
+.sideHeader, .rightFloat,.leftFloat, #navBar,#header, #siteLogo,#welcomeYourName,
+ #mainLeftDiv, #footerWithLinks,#footerAtEnd,  #waltonImage, 
+ #threeScientistsImage, #schrodingerImage,#minorDiv,#switcher, #boxContainer, #slideshowDiv {display:none}
+
+#mainDiv{background-color: pink;
+		padding: 0px;
+		margin: 0px;
+		}
+
+a:visited {
+	color: #C30;
+	}
+
+#wrapper {
+		width: 100%;
+		}
+
+a:after {
+		content: " (" attr(href) ")";
+		} 
+
